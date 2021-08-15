@@ -4,9 +4,9 @@ Aplicação desenvolvida baseando-se na lógica do twitter.
 
 Para que a aplicação funcione é necessário que tenha instalado o COMPOSER e o PHP no sistema. Com o PHP 5.4+ já é possível utilizar o servidor que vem embutido.
 
-No diretório do projeto o composer ja está instalado, mas caso tenha algum problema tente instala-lo novamente.
+No diretório do projeto o composer ja está instalado, mas caso tenha algum problema tente instalá-lo novamente.
 
-       # Instalando o Composer caso não
+       # Instalando o Composer
        
        #1 - Baixe o Composer-Setup.exe para instalar em todo o sistema: https://getcomposer.org/download/
        
