@@ -2,10 +2,10 @@
 
 Aplicação desenvolvida baseando-se na lógica do twitter.
 
-Para que a aplicação funcione é necessário utilizar o servidor que ja vem embutido nas versões 5.4+ do PHP.
+Para que a aplicação funcione é necessário que tenha instalado o COMPOSER e o PHP no sistema. Com o PHP 5.4+ já é possível utilizar o servidor que vem embutido.
 
+Iniciando o servidor dentro da pasta public:
 
-     
        #Abra o diretório public no cmd
   
        C:\Users\luian>cd C:\projects\twitter\public
@@ -14,5 +14,7 @@ Para que a aplicação funcione é necessário utilizar o servidor que ja vem em
        
        C:\projects\twitter\public> php -S localhost:8080
        
+       
+Crie o banco de dados com as querys do arquivo 'sql.txt'.
        
        
